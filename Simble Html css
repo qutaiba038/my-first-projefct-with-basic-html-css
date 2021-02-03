@@ -1,0 +1,45 @@
+<html>
+    <head>
+            <title>
+                the first make self
+            </title> 
+
+            <style>
+
+    h1{
+        color:green;
+         background-color:orange ;
+         
+        
+    }
+        body{
+
+             background-color:red;
+        }
+        h2{
+            color:blue
+        }
+
+    </head>    
+            </style>
+    <body>
+ 
+        <h2>
+            Hello Welcome to My new webside my name is Qutaiba
+        </h2>    
+        <h3>username:</h3>
+        <input type="username">
+        <dr>
+        <h4>password:</h4>
+        <dr>
+        <input type="title">
+        <dr>
+        <input type="submit">
+        
+
+
+        
+    </body>    
+
+
+</html>

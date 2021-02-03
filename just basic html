@@ -1,0 +1,173 @@
+<html>
+    <header>
+        <title>
+         My Page
+        </title>
+        <style>
+        <body{
+            color:orange;
+            background-color:orange;
+        }
+        input{
+            color:red;
+        }
+    </header>
+    </style>
+    <body>
+        <form>
+            <input type="image" src="g.png" />
+        </form>
+
+        <iframe src="login.html" height="300">
+        
+        </iframe>
+
+        <hr>
+        <input type="file"/>
+        <hr>
+        <progress value="30" max="100"></progress> 
+        <hr>
+        <form>
+            URL:<input type="url"/>
+            <br>
+            <input type="submit"/>
+        </form>
+
+        <form>
+            Email:<input type="email"/>
+            <br>
+            <input type="submit"/>
+        </form>
+        <br>
+        <hr>
+        <br>
+
+        <input type="color"/>
+        <br>
+        <br>
+        <input type="range"/>
+        <hr>
+        <br>
+
+        <input type="number" value="1" min="1" max="50" step="19"/>
+
+        <br>
+        <hr>
+        <br>
+
+        <input type="date" value="2021-02-03"/>
+        <br>
+        <input type="time"/>
+        <br>
+        <input type="datetime-local"/>
+        <br>
+        <input type="month"/>
+        <br>
+        <input type="week" value="23-2005"/>
+        <br>
+        <hr>
+
+
+        <input list="sity">
+        <datalist id="sity" 
+            <option value="Qutaiba">
+            <option value="Haider">
+            <option value="Hothaifa">
+            <option value="Mohammed">
+            <option value="meyar">
+            <option value="james">
+            <option value="Qutaiba">
+        </datalist>     
+
+
+        
+
+        <hr>
+
+
+<br>
+</br>
+        <a href="https://ichthuscollege.info/" target="_blank"></a>
+
+        <hr>
+
+
+        <a href="https://ichthuscollege.info/" target="_blank"> 
+            <img src= "g.png"/>
+         </a>
+
+
+
+
+
+<select>
+
+    <option>Qutaiba</option>
+    <option>name</option>
+    <option>Haider</option>
+    <option>Mohammed</option>
+
+
+
+
+</select>
+
+
+
+
+
+
+
+<input type="radio" name="idk"/> Male
+<br>
+</br>
+<br>
+</br>
+<input type="radio" name="Qutaiba"/> Female
+<br>
+</br>
+<br>
+</br>
+<table>
+    <tr>
+        <td>
+            Qutaiba
+        </td>
+        <td>
+        Joe
+        </td>
+    </tr>
+    <tr>
+        <td>
+        hattab
+        </td>
+        <td>
+        idk what i have to type here right now 
+        </td>
+    </tr>
+</teble>
+
+
+
+    username: <input type="text" placeholder="Enter Username"/>
+    <br/>
+    <br/>
+    password: <input type="text" placeholder="Enter your password"/>
+    <br/>
+    <input type="checkbox" id="cb"/> <lable for="cb">Rember me</lable>
+    <br/>
+    <br/>
+    <input type="button" value= "login"/>
+    <input type="submit" value= "submit"/>
+<h1>
+Hello That is basis of webside
+</h1>
+<h2>
+and I hope u like it my name is Qutaiba
+</h2>
+
+
+<img src="ka.jpg"  width="200" height= "100" alt="Wrone"/>
+
+    </body>
+</html>
